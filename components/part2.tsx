@@ -50,7 +50,7 @@ export default function Part2() {
           <div
             style={{
               display: "flex",
-              gap: "2rem",
+              gap: "4rem",
               width: "max-content",
               animation: "marquee 25s linear infinite",
             }}
