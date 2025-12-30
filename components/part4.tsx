@@ -66,6 +66,7 @@ const Part4 = () => {
   return (
     <Container>
       <Section>
+        <span className="text-white text-4xl font-extrabold">Our Work</span>
         <Carousel items={cards}></Carousel>
       </Section>
     </Container>
